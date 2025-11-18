@@ -1,6 +1,6 @@
-# EIC-MTP
+# DIM-MTP
 
-This repository contains the official code from ''Explicit-Implicit Combined Learning for Multi-Modal Trajectory Prediction in Multi-Agent Systems''
+This repository contains the official code from ''Multi-Modal Trajectory Prediction for Vehicular Networks Using Dual-Interaction Model''
 
 ## Installation
 
