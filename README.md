@@ -1,6 +1,6 @@
-# DIM-MTP
+# PairToken for MTP
 
-This repository contains the official code from ''Multi-Modal Trajectory Prediction for Vehicular Networks Using Dual-Interaction Model''
+This repository contains the official code from ''Explicit--Implicit Relation Token Fusion for Multi-Modal Trajectory Prediction in Vehicular Networks''
 
 ## Installation
 
